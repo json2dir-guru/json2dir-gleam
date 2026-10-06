@@ -1,0 +1,8 @@
+name = "json2dir"
+version = "1.0.0"
+description = "json2dir in Gleam"
+licences = ["MIT"]
+target = "erlang"
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
